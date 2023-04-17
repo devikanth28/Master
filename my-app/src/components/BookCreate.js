@@ -14,7 +14,7 @@ const BookCreate = ({onCreate}) => {
     <form onSubmit={handleSubmit}>
         <label>Title Title</label>
         <input value={title} onChange={handlaChange}/>
-        <button>Crete!</button>
+        <button>Crete create!</button>
     </form>
 
   )
